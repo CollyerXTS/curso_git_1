@@ -1,0 +1,2 @@
+criar repositorio: git init
+ver a pasta oculta: .git
