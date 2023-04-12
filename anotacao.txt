@@ -1,2 +1,11 @@
 criar repositorio: git init
 ver a pasta oculta: .git
+
+colocar no github:
+echo "# curso_git_1" >> README.md
+git init
+git add README.md // adicionar o nome do seu arquivo não necessariamente Readme.
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/CollyerXTS/curso_git_1.git
+git push -u origin main
