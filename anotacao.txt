@@ -13,3 +13,4 @@ git push -u origin main
 enviar arquivo solo
 git commit a."nome do arquivo" -m "Enviar arquivo de texto"
 git commit -a -m "enviar todos os arquivos da pasta que estou"
+git push // enviar 
