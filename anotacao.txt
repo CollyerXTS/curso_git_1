@@ -8,4 +8,7 @@ git add README.md // adicionar o nome do seu arquivo não necessariamente Readme
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/CollyerXTS/curso_git_1.git
-git push -u origin main
+git push -u origin main 
+
+enviar arquivo solo
+git commit a."nome do arquivo" -m "Enviar arquivo de texto"
