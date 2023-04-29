@@ -16,3 +16,4 @@ git commit -a -m "enviar todos os arquivos da pasta que estou"
 git push // enviar 
 git pull // trazer atualizaçãoes que estão no repositorio
 git clone "link do repositorio" .// clonar repositorio atual.
+git rm c.txt "nome do arquivo"// remove o arquivo.
