@@ -21,3 +21,4 @@ git log // muito util para lembrar onde parou ou ver oque outras pessoas fizam, 
 git mv rodape.css css/rodape.css // serve tanto para mover quanto para renomear
 exemplo de renomear :
 git mv css/rodape.css css/rodape_1.css // nesse caso so renomei o arquivo.
+git checkout css/styles.css // muito util pra resetar um arquivo para oque era antes, em vez de ter que enviar um commit vazio. (Boas praticas)
