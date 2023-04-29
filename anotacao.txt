@@ -17,3 +17,4 @@ git push // enviar
 git pull // trazer atualizaçãoes que estão no repositorio
 git clone "link do repositorio" .// clonar repositorio atual.
 git rm c.txt "nome do arquivo"// remove o arquivo.  
+git log // muito util para lembrar onde parou ou ver oque outras pessoas fizam, mostra todos os logs dos commites
