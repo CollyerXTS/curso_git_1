@@ -14,3 +14,4 @@ enviar arquivo solo
 git commit a."nome do arquivo" -m "Enviar arquivo de texto"
 git commit -a -m "enviar todos os arquivos da pasta que estou"
 git push // enviar 
+git pull // trazer atualizaçãoes que estão no repositorio
