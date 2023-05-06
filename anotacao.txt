@@ -31,3 +31,5 @@ git rest --hard origin/main   //muito util para resetar uma branch quando para n
 
 git branch // ver todas as Branchs
 git branch "nome branch" // cria branch.
+-d ou --delete// deletar branch quando a brnch foi criada errada normalmente, as branchs são guardadas como historico do protejo.
+git checkout -b <nome> // alterar branch
