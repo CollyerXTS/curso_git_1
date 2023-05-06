@@ -26,3 +26,8 @@ git checkout css/styles.css // muito util pra resetar um arquivo para oque era a
 pasta .gitignore muito util pra deixar pastas e arquivos não monitoradas. 
 
 git rest --hard origin/main   //muito util para resetar uma branch quando para não ter que ficar catando commit e resetar na mão.
+
+--------Branchs---------
+
+git branch // ver todas as Branchs
+git branch "nome branch" // cria branch.
